@@ -4,7 +4,7 @@ Welcome to my GitHub page!
 
 <p align="center">
 
-<img alt="Mountain" width="250" src="https://raw.githubusercontent.com/bonanomi/bonanomi/master/mountain.jpg">
+<img alt="Mountain" width="250" src="https://raw.githubusercontent.com/bonanomi/bonanomi/master/laws_of_physics.png">
 </p>
 <!--
 **bonanomi/bonanomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
